@@ -1,0 +1,4 @@
+<addon id="plugin.program.drakodi"
+       name="Drakodi Wizard"
+       version="1.0.1"
+       provider-name="Drakodi Devs">

@@ -1,0 +1,4 @@
+name=Drakodi Lite
+url=https://raw.githubusercontent.com/drakodi/wizard/main/builds/drakodi_lite.zip
+icon=https://raw.githubusercontent.com/drakodi/wizard/main/icons/drakodi_lite.png
+fanart=https://raw.githubusercontent.com/drakodi/wizard/main/fanart/drakodi_lite.jpg
