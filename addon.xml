@@ -1,0 +1,14 @@
+<addon id="plugin.program.drakodi"
+       name="draKodi Wizard"
+       version="1.0.0"
+       provider-name="drakodi">
+    <requires>
+        <import addon="xbmc.python" version="2.26.0"/>
+    </requires>
+    <extension point="xbmc.addon.pluginsource" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">draKodi Wizard</summary>
+        <description lang="en">Install and configure draKodi custom Kodi build.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

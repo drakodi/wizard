@@ -1,0 +1,6 @@
+<settings>
+    <category label="draKodi Wizard Settings">
+        <setting id="auto_apply_guisettings" type="bool" label="Auto Apply GUI Settings" default="true" />
+        <setting id="auto_switch_skin" type="bool" label="Switch to draKodi Skin Automatically" default="true" />
+    </category>
+</settings>

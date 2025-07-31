@@ -1,0 +1,2 @@
+draKodi_Lite
+https://github.com/drakodi/wizard/releases/download/v1.0.1/draKodi_build.zip
