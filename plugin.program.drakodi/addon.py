@@ -9,7 +9,7 @@ import sys
 from urllib.parse import parse_qsl
 
 ADDON_ID = 'plugin.program.drakodi'
-BASE_URL = 'https://github.com/drakodi/wizard/releases/download/v1.0.0/'
+BASE_URL = 'https://github.com/drakodi/wizard/releases/download/v1.0.0/draKodi_Lite.zip'
 BUILD_DIR = xbmcvfs.translatePath('special://home/userdata/addon_data/plugin.program.drakodi/builds/')
 
 def main_menu():
