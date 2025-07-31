@@ -1,6 +1,6 @@
 ﻿<addon id="plugin.program.drakodi"
        name="draKodi Wizard"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="drakodi">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
