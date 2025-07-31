@@ -1,0 +1,6 @@
+<settings version="2">
+    <setting id="audiooutput.audiodevice">default</setting>
+    <setting id="lookandfeel.skin">skin.drakodi</setting>
+    <setting id="screensaver.mode">screensaver.xbmc.builtin.dim</setting>
+    <setting id="videoplayer.autoplaynextitem">true</setting>
+</settings>

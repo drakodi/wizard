@@ -1,4 +1,0 @@
-name=Drakodi Inferno
-url=https://raw.githubusercontent.com/drakodi/wizard/main/builds/drakodi_inferno.zip
-icon=https://raw.githubusercontent.com/drakodi/wizard/main/icons/inferno.png
-fanart=https://raw.githubusercontent.com/drakodi/wizard/main/fanart/inferno.jpg

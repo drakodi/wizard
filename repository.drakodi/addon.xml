@@ -1,0 +1,15 @@
+<addon id="repository.drakodi" name="draKodi Repository" version="1.0.0" provider-name="draKodi Team">
+    <requires>
+        <import addon="xbmc.addon" version="18.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="draKodi Repository">
+        <info compressed="false">https://raw.githubusercontent.com/drakodi/wizard/main/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/drakodi/wizard/main/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/drakodi/wizard/main/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">draKodi Repository for Kodi Builds and Add-ons</summary>
+        <description lang="en">Install draKodi Wizard and custom builds for a modern, streamlined Kodi experience.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
