@@ -1,6 +1,6 @@
 <addon id="repository.drakodi" name="draKodi Repository" version="1.0.0" provider-name="drakodi">
     <requires>
-        <import addon="xbmc.addon" version="18.0.0"/>
+        <import addon="xbmc.addon" version="20.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository"
                name="draKodi Repo">

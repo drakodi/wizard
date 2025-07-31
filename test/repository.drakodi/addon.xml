@@ -1,0 +1,16 @@
+<addon id="repository.drakodi" name="draKodi Repository" version="1.0.0" provider-name="drakodi">
+    <requires>
+        <import addon="xbmc.addon" version="20.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository"
+               name="draKodi Repo">
+        <info compressed="false">https://raw.githubusercontent.com/drakodi/wizard/main/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/drakodi/wizard/main/zips/addons.xml.md5</checksum>
+        <datadir>https://raw.githubusercontent.com/drakodi/wizard/main/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>draKodi Wizard Repo</summary>
+        <description>Repo for the draKodi build and wizard.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
