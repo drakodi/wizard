@@ -1,0 +1,14 @@
+﻿<addon id="plugin.program.drakodi"
+       name="draKodi Wizard"
+       version="1.0.0"
+       provider-name="drakodi">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.plugin" library="default.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>draKodi Wizard Installer</summary>
+        <description>Installs and manages the draKodi builds for jailbroken Firesticks.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
